@@ -1693,3 +1693,7 @@ width:auto;
 
 }
 
+.welcomect p {
+    font-size: clamp(20px,3.5vh,40px)
+}
+
