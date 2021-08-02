@@ -532,17 +532,17 @@ a {
 
 
     .welcomect h1 {
-        font-size: 25px;
+        
         font-weight: 600;
+        max-width:20ch;
+        font-size:32px;
     }
 
     .hero {
         background-size:cover;
     }
     
-    .welcomect p {
-        font-size: 14px;
-    }
+  
     
     .welcomect .btn {
         padding: 8px 20px;
