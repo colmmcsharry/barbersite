@@ -292,7 +292,7 @@ bottom:-6px;
 .hero {
     position: relative;
     width: 100%;
-    margin-bottom: 45px;
+    margin-bottom: 50px;
     height: calc(100vh - 60px);
     background-image: url('../img/barbgdrk.jpg');
     background-size: cover;
@@ -664,6 +664,7 @@ width:auto;
     position: relative;
     width: 100%;
     padding: 45px 0;
+    margin-bottom:50px;
 }
 
 .about .section-header {
@@ -746,6 +747,7 @@ width:auto;
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    margin-bottom:50px;
 }
 
 .service .service-item {
@@ -848,6 +850,7 @@ width:auto;
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    margin-bottom:50px;
 }
 
 .price .price-item {
@@ -918,6 +921,7 @@ width:auto;
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    margin-bottom:50px;
 }
 
 .team .team-item {
@@ -985,6 +989,7 @@ width:auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom:50px;
 }
 
 .testimonial .container {
@@ -1069,6 +1074,7 @@ width:auto;
     position: relative;
     width: 100%;
     padding: 45px 0;
+    margin-bottom:50px;
 }
 
 .blog .blog-carousel {
@@ -1292,6 +1298,7 @@ width:auto;
     width: 100%;
     margin: 45px 0;
     background: #1d2434;
+    margin-bottom:50px;
 }
 
 .contact .container-fluid {
